@@ -1,8 +1,8 @@
 package dw.api.model;
 
-import dw.api.enums.ECreatureCategory;
-import dw.api.enums.ECreaturePrompt;
-import dw.api.enums.ECreatureSubcategory;
+import dw.api.enums.creature.ECreatureCategory;
+import dw.api.enums.creature.ECreaturePrompt;
+import dw.api.enums.creature.ECreatureSubcategory;
 import jakarta.persistence.*;
 import lombok.Data;
 

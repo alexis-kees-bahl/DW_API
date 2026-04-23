@@ -1,8 +1,8 @@
 package dw.api.model;
 
-import dw.api.enums.EAreaDressing;
-import dw.api.enums.EAreaRarity;
-import dw.api.enums.EAreaType;
+import dw.api.enums.area.EAreaDressing;
+import dw.api.enums.area.EAreaRarity;
+import dw.api.enums.area.EAreaType;
 import jakarta.persistence.*;
 import lombok.Data;
 

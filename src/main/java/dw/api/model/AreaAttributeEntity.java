@@ -1,8 +1,8 @@
 package dw.api.model;
 
-import dw.api.enums.EAreaAttributeCategory;
-import dw.api.enums.EAreaAttributePrompt;
-import dw.api.enums.EAreaAttributeSubcategory;
+import dw.api.enums.area.EAreaAttributeCategory;
+import dw.api.enums.area.EAreaAttributePrompt;
+import dw.api.enums.area.EAreaAttributeSubcategory;
 import jakarta.persistence.*;
 import lombok.Data;
 
