@@ -2,5 +2,8 @@ package dw.api.enums.shared;
 
 public enum ELocationType {
     WORLD,
-    AREA
+    AREA,
+    DUNGEON,
+    STEADING,
+    RUIN;
 }

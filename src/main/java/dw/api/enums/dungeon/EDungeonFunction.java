@@ -1,4 +1,26 @@
 package dw.api.enums.dungeon;
 
 public enum EDungeonFunction {
+    INDISCERNIBLE,
+    MYSTERIOUS,
+    CONCEALMENT,
+    CAMOUFLAGE,
+    EXTRACTION,
+    PRODUCTION,
+    CONFINEMENT,
+    CONTAINMENT,
+    LAIR,
+    HIDEOUT,
+    ARCHIVE,
+    LIBRARY,
+    LABORATORY,
+    COMMEMORATION,
+    FUNERARY,
+    WORSHIP,
+    DEVOTION,
+    OBSERVATION,
+    DIVINATION,
+    EMPOWERMENT,
+    INTENSIFICATION,
+    ROLL_TWICE,
 }

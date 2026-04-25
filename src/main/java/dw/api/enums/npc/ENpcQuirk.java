@@ -1,5 +1,30 @@
 package dw.api.enums.npc;
 
 public enum ENpcQuirk {
+    INSECURE,
+    RACIST,
+    XENOPHOBIC,
+    ADDICT,
+    PHOBIA,
+    ALLERGIC,
+    ASTHMATIC,
+    CHRONICALLY_ILL,
+    SKEPTIC,
+    PARANOID,
+    SUPERSTITIOUS,
+    DEVOUT,
+    FANATICAL,
+    MISER,
+    PACK_RAT,
+    SPENDTHRIFT,
+    WASTREL,
+    SMART_ALECK,
+    KNOW_IT_ALL,
+    ARTISTIC,
+    DREAMER,
+    DELUSIONAL,
+    NAIVE,
+    FALSELY_WISE,
+    ROLL_TWICE;
 
 }
