@@ -1,5 +1,7 @@
 package dw.api.enums.area;
 
+import dw.api.enums.shared.ELocationType;
+
 import java.util.*;
 
 public enum EAreaAttributePrompt {

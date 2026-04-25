@@ -1,4 +1,4 @@
-package dw.api.enums.area;
+package dw.api.enums.shared;
 
 public enum ELocationType {
     WORLD,

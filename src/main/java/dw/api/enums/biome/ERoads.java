@@ -6,7 +6,7 @@ public enum ERoads {
         FEW_PRESERVED("Few roads, somewhat preserved"),
         MANY_PRESERVED("Many roads, well preserved"),
         TRANSITABLE("The place is mostly transitable"),
-        CROWDED_ROADS("Easily transitable and crowded roads"),
+        CROWDED_ROADS("Easily transitable and crowded roads");
 
     private final String label;
     ERoads(String label) {this.label = label;}
