@@ -9,7 +9,7 @@ public enum EFollowerHpAndDamage {
     private final int hp;
     private final int damageDie;
 
-    EFollowerHpDamage(int hp, int damageDie) {
+    EFollowerHpAndDamage(int hp, int damageDie) {
         this.hp = hp;
         this.damageDie = damageDie;
     }
