@@ -1,7 +1,5 @@
 package dw.api.enums.discovery;
 
-import dw.api.enums.shared.ELocationType;
-
 public enum EDiscoverySubcategory {
     /*====================
     AREA DISCOVERY → FIND

@@ -1,4 +1,19 @@
 package dw.api.enums.shared;
 
 public enum EAberrance {
+    MULTICEPHALOUS,
+    PROFUSE_SENSORY_ORGANS,
+    ANATOMICAL_ODDITY,
+    MANY_LIMBS,
+    MANY_DIGITS,
+    ACEPHALOUS,
+    DECENTRALIZED,
+    TENTACLES,
+    FEELERS,
+    GIBBERING,
+    BABBLING,
+    EXUDES_CHAOS,
+    EXUDES_BLIGHT,
+    SHAPECHANGING,
+    ROLL_TWICE,
 }

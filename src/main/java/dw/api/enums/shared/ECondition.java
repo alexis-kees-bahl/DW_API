@@ -1,5 +1,30 @@
 package dw.api.enums.shared;
 
 public enum ECondition {
+    BEING_BUILT,
+    BEING_BORN_CONDITION,
+    INTACT,
+    HEALTHY,
+    ACTIVE,
+    ALERT,
+    WEATHERED,
+    TIRED,
+    VACANT,
+    HOST,
+    BROKEN_CONDITION,
+    MISSING,
+    DEAD_CONDITION,
+    CRUMBLING,
+    DISINTEGRATING,
+    INFECTED,
+    ROTTING,
+    CURSED,
+    POSSESSED,
+    BLESSED,
+    ENLIGHTENED,
+    TRANSFORMED,
+    MUTATED,
+    INERT,
+    DORMANT,
 
 }

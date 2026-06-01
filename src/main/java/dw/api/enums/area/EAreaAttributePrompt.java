@@ -65,8 +65,8 @@ public enum EAreaAttributePrompt {
     ELEMENTAL(EAreaAttributeSubcategory.PLANAR_ENTITY, Set.of(ELocationType.WORLD, ELocationType.AREA)),
     GREATER_DEMON(EAreaAttributeSubcategory.PLANAR_ENTITY, Set.of(ELocationType.WORLD, ELocationType.AREA)),
     GREATER_ELEMENTAL(EAreaAttributeSubcategory.PLANAR_ENTITY, Set.of(ELocationType.WORLD, ELocationType.AREA)),
-    DEVIL_LORD(EAreaAttributeSubcategory.PLANAR_ENTITY, Set.of(ELocationType.WORLD, ELocationType.AREA)),
-    ELEMENTAL_LORD(EAreaAttributeSubcategory.PLANAR_ENTITY, Set.of(ELocationType.WORLD, ELocationType.AREA)),
+    DEVIL_LORD(EAreaAttributeSubcategory.PLANAR_ENTITY, Set.of(ELocationType.WORLD)),
+    ELEMENTAL_LORD(EAreaAttributeSubcategory.PLANAR_ENTITY, Set.of(ELocationType.WORLD)),
 
     /* =====================================================
        UNNATURAL ENTITY → UNDEAD
@@ -81,7 +81,7 @@ public enum EAreaAttributePrompt {
     WIGHT(EAreaAttributeSubcategory.UNDEAD, Set.of(ELocationType.WORLD, ELocationType.AREA)),
     WRAITH(EAreaAttributeSubcategory.UNDEAD, Set.of(ELocationType.WORLD, ELocationType.AREA)),
     REVENANT(EAreaAttributeSubcategory.UNDEAD, Set.of(ELocationType.WORLD, ELocationType.AREA)),
-    SPIRIT_LORD(EAreaAttributeSubcategory.UNDEAD, Set.of(ELocationType.WORLD, ELocationType.AREA)),
+    SPIRIT_LORD(EAreaAttributeSubcategory.UNDEAD, Set.of(ELocationType.WORLD)),
     LICH(EAreaAttributeSubcategory.UNDEAD, Set.of(ELocationType.WORLD, ELocationType.AREA)),
 
 
@@ -155,7 +155,6 @@ public enum EAreaAttributePrompt {
     USEFUL_PLANT(EAreaAttributeSubcategory.FLORA, Set.of(ELocationType.WORLD, ELocationType.AREA)),
     USEFUL_HERB(EAreaAttributeSubcategory.FLORA, Set.of(ELocationType.WORLD, ELocationType.AREA)),
     USEFUL_ROOT(EAreaAttributeSubcategory.FLORA, Set.of(ELocationType.WORLD, ELocationType.AREA)),
-
     NOTABLE_BEAST(EAreaAttributeSubcategory.FAUNA, Set.of(ELocationType.WORLD, ELocationType.AREA)),
     USEFUL_BEAST(EAreaAttributeSubcategory.FAUNA, Set.of(ELocationType.WORLD, ELocationType.AREA)),
 

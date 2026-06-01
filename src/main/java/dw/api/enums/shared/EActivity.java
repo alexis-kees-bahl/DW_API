@@ -1,4 +1,28 @@
 package dw.api.enums.shared;
 
 public enum EActivity {
+    LAYING_TRAP,
+    LAYING_AMBUSH,
+    FIGHTING,
+    AT_WAR,
+    PROWLING,
+    ON_PATROL,
+    HUNTING,
+    FORAGING,
+    EATING,
+    FEASTING,
+    CAMPING,
+    ARGUING,
+    TRAVELING,
+    EXPLORING,
+    TRADING,
+    NEGOTIATING,
+    FLEEING,
+    RUNNING_AWAY,
+    BUILDING,
+    EXCAVATING,
+    SLEEPING,
+    UNCONSCIOUS,
+    NURSING_INJURY,
+    NURSING_THE_DYING,
 }

@@ -1,4 +1,24 @@
 package dw.api.enums.shared;
 
 public enum EMagicType {
+    NECROMANCY,
+    EVOCATION,
+    DESTRUCTION,
+    CONJURATION,
+    SUMMONING,
+    DIVINE,
+    MIRACLES,
+    STORIES,
+    ILLUSION,
+    GLAMOUR,
+    ENCHANTMENT,
+    ARTIFICE,
+    TRANSFORMATION,
+    WARDING,
+    BINDING,
+    ELEMENTAL,
+    RESTORATION,
+    HEALING,
+    DIVINATION,
+    SCRYING;
 }

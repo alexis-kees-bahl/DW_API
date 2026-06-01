@@ -1,4 +1,13 @@
 package dw.api.enums.shared;
 
 public enum EKnownTrait {
+    UNRELENTING_STRENGTH,
+    SKILL_IN_OFFENSE,
+    SKILL_IN_DEFENSE,
+    DEFT_STRIKES,
+    UNCANNY_ENDURANCE,
+    DECEIT_AND_TRICKERY,
+    USEFUL_ADAPTATION,
+    FAVOR_OF_THE_GODS,
+    SPELLS_AND_MAGIC,
 }

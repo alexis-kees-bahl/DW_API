@@ -1,4 +1,28 @@
 package dw.api.enums.shared;
 
 public enum EAspect {
+    WAR,
+    DISCORD,
+    HATE,
+    ENVY,
+    POWER,
+    STRENGTH,
+    TRICKERY,
+    DEXTERITY,
+    TIME,
+    SUBSTITUTION,
+    LORE,
+    INTELLIGENCE,
+    NATURE,
+    WISDOM,
+    CULTURE,
+    CHARISMA,
+    LUCK,
+    FORTUNE,
+    LOVE,
+    ADMIRATION,
+    PEACE,
+    BALANCE,
+    GLORY,
+    DIVINITY,
 }
